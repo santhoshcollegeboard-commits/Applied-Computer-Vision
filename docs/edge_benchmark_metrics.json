@@ -1,0 +1,11 @@
+{
+    "device": "CPU",
+    "model": "C:\\AI\\Working\\Project CAM\\yolov8n.pt",
+    "total_frames_evaluated": 40,
+    "mean_latency_ms": 104.94,
+    "p95_latency_ms": 147.72,
+    "min_latency_ms": 46.98,
+    "max_latency_ms": 179.73,
+    "throughput_fps": 9.5,
+    "real_time_capable_30fps": false
+}
